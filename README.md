@@ -1,1 +1,2 @@
 # assignment
+# data science exercises
